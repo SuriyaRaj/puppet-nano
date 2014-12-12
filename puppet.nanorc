@@ -36,3 +36,20 @@ color brightcyan "(XXX|TODO|FIXME|\?\?\?)"
 ## Trailing spaces
 color ,red "[[:space:]]+$"
 
+set const
+
+set tabsize 2
+
+set tabstospaces
+
+set smarthome
+
+set cut
+
+set morespace
+
+set multibuffer
+
+set suspend
+
+set smooth
